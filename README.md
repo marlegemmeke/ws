@@ -4,12 +4,15 @@ Version 0.1.0
 
 This project was set up during a workshop. The aim of the project is to predict falls by medication use. In this project a fake database is used. The predictive performance of the models is calculated using the PDI.
 
+
 Assumptions on the data input:
 - Gender is defined as either male (M) or female (V); age is defined in years
 - The patients should be categorized in 3 categories of falls (no falls (val=1), one fall (val=2), recurrent falls (val=3)).
 - The Drug Burden Index (DBI) should be calculated for each patient and should be 0 or > 0.
 - For all drug categories patients should be either using (= 1) or not using (= 0) the drug.
+
 NOTE: for the FAKE dataset the assumptions are not met!!!
+
 
 ## Project organization
 
