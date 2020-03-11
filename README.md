@@ -21,6 +21,13 @@ attached base packages:
 other attached packages:
 [1] VGAM_1.1-2   bayesm_3.1-4 mcca_0.7.0   dplyr_0.8.4  nnet_7.3-13 
 
+The following packages need to be installed:
+library(nnet)
+library(dplyr)
+library(bayesm)
+library(VGAM)
+library(mcca)
+
 ## Project organization
 
 ```
