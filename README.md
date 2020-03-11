@@ -13,6 +13,7 @@ Assumptions on the data input:
 
 NOTE: for the FAKE dataset the assumptions are not met!!!
 
+This project is build under R version 3.6.3.
 
 ## Project organization
 
