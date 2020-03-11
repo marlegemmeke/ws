@@ -9,6 +9,7 @@ Assumptions on the data input:
 - The patients should be categorized in 3 categories of falls (no falls (val=1), one fall (val=2), recurrent falls (val=3)).
 - The Drug Burden Index (DBI) should be calculated for each patient and should be 0 or > 0.
 - For all drug categories patients should be either using (= 1) or not using (= 0) the drug.
+NOTE: for the FAKE dataset the assumptions are not met!!!
 
 ## Project organization
 
