@@ -7,7 +7,7 @@ This project was set up during a workshop. The aim of the project is to predict 
 
 Assumptions on the data input:
 - Gender is defined as either male (M) or female (V); age is defined in years
-- The patients should be categorized in 3 categories of falls (no falls (val=1), one fall (val=2), recurrent falls (val=3)).
+- The patients should be categorized in 3 categories of falls (no falls (val=0), one fall (val=1), recurrent falls (val=2)).
 - The Drug Burden Index (DBI) should be calculated for each patient and should be 0 or > 0.
 - For all drug categories patients should be either using (= 1) or not using (= 0) the drug.
 
