@@ -15,6 +15,12 @@ NOTE: for the FAKE dataset the assumptions are not met!!!
 
 This project is build under R version 3.6.3.
 
+attached base packages:
+[1] splines   stats4    stats     graphics  grDevices utils     datasets  methods   base     
+
+other attached packages:
+[1] VGAM_1.1-2   bayesm_3.1-4 mcca_0.7.0   dplyr_0.8.4  nnet_7.3-13 
+
 ## Project organization
 
 ```
