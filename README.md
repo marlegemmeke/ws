@@ -1,8 +1,8 @@
-# workshop
+# Workshop best practices for writing a reproducible R code : multinomial fall prediction model
 
 Version 0.1.0
 
-workshop
+This project was set up during a workshop. The aim of the project is to predict falls by medication use. In this project a fake database is used. The predictive performance of the models is calculted using the PDI. 
 
 
 ## Project organization
